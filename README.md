@@ -69,4 +69,21 @@ To run this project, you'll need the following libraries installed:
 ---
 ## Conclusion
 
-The Industrial Copper Modeling Project represents a significant step forward in the application of machine learning within the copper industry. By leveraging advanced algorithms and automation, we aim to empower businesses with enhanced predictive capabilities and streamlined decision-making processes. Join us on this journey towards innovation and growth in the copper industry!
+The Industrial Copper Modeling Project represents a significant step forward in the application of machine learning within the copper industry. By leveraging advanced algorithms and automation, we aim to empower businesses with enhanced predictive capabilities and streamlined decision-making processes. Join us on this journey towards innovation and growth in the copper industry!</br></br></br>
+
+
+
+___
+## About the Developer
+Hi there! 👋 I'm <b><em>Balakrishnan Ravikumar</em></b>, the developer behind this project. I'm deeply passionate about leveraging data-driven insights to solve real-world problems and drive decision-making. I believe that by harnessing the power of data analytics, we can unlock valuable insights that lead to smarter and more informed decisions. Whether it's optimizing business processes or improving customer experiences or addressing societal challenges, I'm dedicated to using data science techniques to make a positive impact on the world around us.</br></br></br>
+
+___
+## Contact Information
+Feel free to reach out to me if you have any questions, feedback, or just want to connect! You can find me at:</br>
+
+Name: ⠀⠀⠀⠀Balakrishnan Ravikumar</br>
+Location: ⠀⠀Chennai, Tamil Nadu, India</br></br>
+[<img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="30" height="30"/>](https://www.linkedin.com/in/balakrishnan-ravikumar-8790732b6/) 
+⠀⠀[<img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width="30" height="30"/>](https://github.com/BalaKrishnanCodeSpace)
+
+___

@@ -5,12 +5,12 @@
 ---
 ## Introduction
 
-Welcome to the Industrial Copper Modeling Project! Our mission is to transform the copper industry through the application of cutting-edge machine learning techniques. By developing robust models for predicting selling prices and classifying leads, we aim to revolutionize decision-making processes and drive business growth.</br></br></br>
+Welcome to the Industrial Copper Modeling Project! Our mission is to transform the copper industry through the application of cutting-edge machine learning techniques. By developing robust models for predicting selling prices and classifying status, we aim to revolutionize decision-making processes and drive business growth.</br></br></br>
 
 ---
 ## Project Objectives
 
-1. **Enhanced Predictive Accuracy**: Traditional methods of predicting selling prices and classifying leads often fall short due to data complexities and manual intervention. Our goal is to leverage machine learning to improve accuracy and efficiency in these critical areas.
+1. **Enhanced Predictive Accuracy**: Traditional methods of predicting selling prices and classifying status often fall short due to data complexities and manual intervention. Our goal is to leverage machine learning to improve accuracy and efficiency in these critical areas.
 
 2. **Streamlined Processes**: Manual prediction and lead classification processes can be time-consuming and prone to errors. Through automation and advanced algorithms, we seek to streamline these processes, enabling faster and more informed decision-making.
 
@@ -29,9 +29,9 @@ Our regression model is designed to predict selling prices by analyzing various 
 
 ### Classification Model Details
 
-Our classification model focuses on lead classification, categorizing leads as either 'Won' or 'Lost' based on their likelihood of conversion. Key features of this model include:
+Our classification model focuses on lead classification, categorizing status as either 'Won' or 'Lost' based on their likelihood of conversion. Key features of this model include:
 
-- **Utilization of Status Variable**: Leveraging the 'STATUS' variable to classify leads as 'Won' or 'Lost'.
+- **Utilization of Status Variable**: Leveraging the 'STATUS' variable to classify status as 'Won' or 'Lost'.
 - **Decision Tree Classifier**: Employing decision tree algorithms for efficient lead classification.</br></br></br>
 
 ---
